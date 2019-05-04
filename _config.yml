@@ -21,4 +21,3 @@ gems: [jekyll-paginate, jekyll-gist]
 
 sass:
     sass_dir: _sass
-    style: :compressed
