@@ -1,14 +1,17 @@
 <!DOCTYPE html>
 <html>
+  {% include head.html %}
   <body>
+    {% include navbar.html %}
   <section class="section">
     <div class="container">
       <h1 class="title">
-        Hello World
+        {{ page.title }}
       </h1>
       <p class="subtitle">
-        My first website with <strong>Bulma</strong>!
+        {{ page.subtitle }}
       </p>
+      {{ content }}
     </div>
   </section>
   </body>
