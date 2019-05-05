@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome to Our Jekyll theme
+color: primary
 MathJax: true
 ---
 
