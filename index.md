@@ -1,14 +1,66 @@
 ---
-title : "Welcome to Bulma Theme"
-subtitle: "Free and Open Source"
+layout: default
+title: Welcome to Our Jekyll theme
+MathJax: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate dignissim suspendisse in est. Eu sem integer vitae justo eget. At tempor commodo ullamcorper a lacus vestibulum sed arcu non. Tristique nulla aliquet enim tortor at auctor urna nunc id. Elementum nibh tellus molestie nunc non blandit. Posuere lorem ipsum dolor sit. Eget felis eget nunc lobortis mattis aliquam faucibus purus in. Eu scelerisque felis imperdiet proin fermentum. Amet purus gravida quis blandit turpis cursus in hac habitasse. Ac tortor dignissim convallis aenean. Ut placerat orci nulla pellentesque dignissim enim sit amet. Enim neque volutpat ac tincidunt vitae. Sit amet consectetur adipiscing elit ut aliquam purus sit amet. Malesuada fames ac turpis egestas sed tempus. Lobortis mattis aliquam faucibus purus in massa tempor nec.
+Hai... Friends, First of all I would like to say I am **not a webdesigner**. But you don't have to worry about that, while forking this Jekyll theme or template. This is one of the best theme available for Jekyll. I am using this theme for my personal blog. If you are like this theme, you can fork this theme. This theme is fully open source. **But you have to ensure that the contents in the blog({% raw %}_post folder{% endraw %}) is not publishing along with creating your blog.** It is a multipurpose Jekyll theme. But this theme is more suitable for blogging. This theme has following features:
 
-A pellentesque sit amet porttitor eget dolor morbi non. Libero enim sed faucibus turpis in eu mi bibendum neque. Consequat id porta nibh venenatis cras sed. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Enim nunc faucibus a pellentesque sit amet porttitor. Lectus mauris ultrices eros in cursus turpis massa tincidunt. Felis eget velit aliquet sagittis id consectetur purus ut faucibus. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Elit eget gravida cum sociis natoque. Adipiscing diam donec adipiscing tristique risus nec. Dignissim enim sit amet venenatis urna cursus eget. Viverra maecenas accumsan lacus vel facilisis volutpat est. Quis auctor elit sed vulputate. Nunc mi ipsum faucibus vitae aliquet nec. Amet luctus venenatis lectus magna fringilla urna. Lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique. Neque convallis a cras semper auctor neque.
+* Post by category
+* Posts are archived by tags
+* Tag cloud
+* Search using supersearch.js
+* Intro Image for each post
+* Parallax effect for each post
+* Sitemap
+* Two way syntax highlighting
+* Syntax highlighting using Prism and Rouge
+* More color options for theme(Powered with W3.css)
+* Mathjax support
+* Important notes can be highlighted
+* Including youtube video responsively
+* Including modal image responsively
 
-Etiam erat velit scelerisque in dictum non consectetur a erat. Amet nisl purus in mollis nunc. Varius quam quisque id diam vel quam elementum pulvinar. Vivamus at augue eget arcu dictum. Ridiculus mus mauris vitae ultricies leo. In pellentesque massa placerat duis ultricies lacus. Bibendum arcu vitae elementum curabitur. Mauris vitae ultricies leo integer malesuada nunc vel risus. Tellus mauris a diam maecenas sed enim ut sem. Lorem sed risus ultricies tristique nulla. Neque volutpat ac tincidunt vitae semper. Ipsum faucibus vitae aliquet nec ullamcorper sit amet risus nullam. Consectetur a erat nam at lectus urna duis convallis. Vel pretium lectus quam id leo in. Mi tempus imperdiet nulla malesuada pellentesque. Pellentesque diam volutpat commodo sed egestas egestas fringilla. Quis varius quam quisque id diam vel quam elementum pulvinar. Pellentesque habitant morbi tristique senectus et netus.
+## Disadvantages
+* Search overlay color do not changes with page color
+* Didn't added extra grid for large display(1200px).
 
-Nisl pretium fusce id velit ut tortor pretium viverra suspendisse. Sed nisi lacus sed viverra tellus in hac habitasse. Turpis in eu mi bibendum neque egestas. Facilisis gravida neque convallis a cras semper auctor neque vitae. Justo donec enim diam vulputate. Integer eget aliquet nibh praesent tristique magna sit amet. Venenatis a condimentum vitae sapien pellentesque habitant. Habitasse platea dictumst quisque sagittis purus sit amet. Morbi tristique senectus et netus et malesuada fames ac. Accumsan tortor posuere ac ut consequat semper. Elementum facilisis leo vel fringilla. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Nibh tortor id aliquet lectus proin nibh nisl condimentum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Sapien eget mi proin sed libero enim sed faucibus turpis. Adipiscing tristique risus nec feugiat in. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Vehicula ipsum a arcu cursus vitae congue.
+## Video
 
-Lectus magna fringilla urna porttitor rhoncus dolor purus non. Elit pellentesque habitant morbi tristique senectus et netus. Magna eget est lorem ipsum. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna. Risus nullam eget felis eget nunc lobortis. Integer quis auctor elit sed vulputate mi sit. Massa enim nec dui nunc mattis. Nunc sed velit dignissim sodales ut eu sem integer. Aliquet enim tortor at auctor urna. Vulputate odio ut enim blandit. Auctor neque vitae tempus quam pellentesque. Praesent tristique magna sit amet purus gravida quis blandit. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum. Eget felis eget nunc lobortis. Tempus urna et pharetra pharetra massa massa ultricies mi. In ante metus dictum at. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus. Lorem mollis aliquam ut porttitor leo a diam sollicitudin tempor.
+<div class="video-responsive">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
+</div>
+
+## Responsive Table
+
+| Tables        | Are           | Cool  |    as   | Ice Cream |   and    |
+|:-------------:|:-------------:|:-----:|:-------:|:---------:|:--------:|
+| col 3 is      | right-aligned | $1600 | $600000 |    Arun.  |   Arun.  |
+| col 2 is      | centered      |   $12 |    $345 |     K.    |   Alwyn. |
+| zebra stripes | are neat      |    $1 |    $200 |    Soman. |  Jestin. |
+{: class="w3-responsive"}
+
+## Embedd JS fiddle
+
+<script async src="//jsfiddle.net/chipprogrammer/x6u5y3Ls/embed/html,css,result/dark/"></script>
+
+## Responsive math block using MathJax
+
+<div style="overflow-x:auto">
+$$
+\begin{align*}
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*}
+$$
+</div>
